@@ -1,4 +1,5 @@
- This Project is for Accordian for creading amazing Faqs. You can select single or multiplr Faqs at a time by enable multiselect button
+ This Project is for Accordian for creading amazing Faqs. You can select single or multiplr Faqs at a time by enable multiselect button.
+ Thanks!
 
 # Getting Started with Create React App
 

@@ -1,0 +1,36 @@
+ .wrapper{
+    display: flex;
+    height: 100vh;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+ }
+ .wrapper button{
+    padding: 10px 20px;
+    font-weight: bold;
+    color: black;
+    background-color: aqua;
+ }
+ html{
+    scroll-behavior: smooth;
+    color-scheme: dark;
+ }
+ .accordian{
+    max-width: 600px;
+ }
+.item{
+    padding: 10px 20px;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+.answer{
+    color: aqua;
+    overflow: hidden;
+    margin: auto;   
+}
